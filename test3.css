@@ -20,3 +20,16 @@ h3 {
 h4{
    color:  #228B22 ;
 }
+
+
+.ratings-container{
+	background-color:#FFB6C1;
+}
+
+.rating entry{
+  color: #FF0000;
+}
+
+.avatar-container .Player-username {
+    color: #FF0000;
+}
