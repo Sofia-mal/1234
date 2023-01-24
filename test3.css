@@ -24,7 +24,9 @@ h4{
 
 .ratings-container{
 	background-color:#FFB6C1;
-	 border:12px ridge #8f00ff;
+	 border:solid
+	 border-color: #8f00ff;
+		 ridge #8f00ff;
 }
 
 .rating-entry{
