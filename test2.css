@@ -5,3 +5,15 @@
     max-width: none !important;
    background-image: url('https://i.imgur.com/e6AbYrJ.png');
 }
+
+h2 {
+ color:#d10300;
+}
+
+h3 {
+   color: #228B22;
+  }
+
+h4{
+   color:  #581845 ;
+}
