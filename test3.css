@@ -36,3 +36,22 @@ h4{
 .avatar-container .Player-username {
     color: #FF0000;
 }
+
+.active-games{
+	background-color:#FFB6C1;
+	 border:solid
+	 border-color: #8f00ff;
+		 ridge #8f00ff;
+}
+
+.move-number{
+  color: #FF0000;
+}
+
+.game-name{
+  color: #FF0000;
+}
+
+.Clock {
+  color: #FF0000;
+}
