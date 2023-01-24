@@ -1,0 +1,22 @@
+.ratings-row {
+  display:none !important;
+}
+.container {
+  max-width: none !important;
+  background-image: url('https://i.imgur.com/e6AbYrJ.png');
+}
+h1 {
+ color:#FF0000;
+}
+
+h2 {
+ color:#228B22;
+}
+
+h3 {
+   color: #228B22;
+  }
+
+h4{
+   color:  #228B22 ;
+}
